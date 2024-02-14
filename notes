@@ -1,0 +1,7 @@
+02-13-2024
+
+Rust linker error sent me here
+
+Have it compiling so this weekend I will test it on hardware
+
+*.zon seems to be the basis of the package manager need to see where is stated in the build script
